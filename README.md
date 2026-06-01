@@ -8,4 +8,4 @@ https://github.com/JESCON/releases/releases/download/lab/LabDesktop-Amala.exe
 
 https://github.com/JESCON/releases/releases/download/emr/Emr.Amala.apk
 
-https://github.com/JESCON/releases/releases/download/emr/Emr.jescon.apk
+https://github.com/JESCON/releases/releases/download/emr/Emr.Jescon.apk
